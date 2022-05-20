@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcnpjd&hide=contribs,prs&theme=radical)
 
 
 ### Skills
@@ -25,5 +26,4 @@ Here are some ideas to get you started:
 ### Email
 ### sjcnpjd@naver.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjcnpjd&hide=contribs,prs&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjcnpjd)](https://solved.ac/sjcnpjd/)
